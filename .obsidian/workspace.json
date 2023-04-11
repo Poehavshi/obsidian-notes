@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "1814b642db291d5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb0b4809b1bdbba7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5fb45601af62411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТЦОС/Ошибка восстановления.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d5595c2b6a2c068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТЦОС/Лемма об ортогональном проецировании.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55cd5988093a9c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТЦОС/Лемма об ортогональном проецировании.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db879fd73b7309bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bad67ada0cec0ea0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1effd5071c4cc62f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b72f040b9ec0fdee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9621af5d232808e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d1ff83679c467be",
+    "type": "split",
+    "children": [
+      {
+        "id": "b84ffd5e414b6e17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38f191f312850954",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ТЦОС/Лемма об ортогональном проецировании.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29b27f443ce03f6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ТЦОС/Лемма об ортогональном проецировании.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1368139144c5b983",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6922b0596486329f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ТЦОС/Лемма об ортогональном проецировании.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "55cd5988093a9c0c",
+  "lastOpenFiles": [
+    "ТЦОС/Модель наблюдения сигнала.md",
+    "ТЦОС/Условие квазиоптимальности.md",
+    "ТЦОС/Схема восстанавливающей системы.md",
+    "ТЦОС/Ошибка восстановления.md",
+    "ТЦОС/Лемма об ортогональном проецировании.md",
+    "().md",
+    "ТЦОС/Рассматриваемые в курсе системы.md",
+    "ТЦОС/resources/Pasted image 20230411091746.png",
+    "ТЦОС/resources/Схема полезного сигнала.png",
+    "ТЦОС/resources/Схема восстанавливающей системы.png",
+    "ТЦОС/resources",
+    "ТЦОС",
+    "obsidian-notes"
+  ]
+}
